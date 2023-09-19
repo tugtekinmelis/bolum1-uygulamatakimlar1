@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\uygulamatakimlar1\uygulamatakimlar1\bin\Debug\uygulamatakimlar1.exe.config
+C:\Users\User\source\repos\uygulamatakimlar1\uygulamatakimlar1\bin\Debug\uygulamatakimlar1.exe
+C:\Users\User\source\repos\uygulamatakimlar1\uygulamatakimlar1\bin\Debug\uygulamatakimlar1.pdb
+C:\Users\User\source\repos\uygulamatakimlar1\uygulamatakimlar1\obj\Debug\uygulamatakimlar1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\uygulamatakimlar1\uygulamatakimlar1\obj\Debug\uygulamatakimlar1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\uygulamatakimlar1\uygulamatakimlar1\obj\Debug\uygulamatakimlar1.Form1.resources
+C:\Users\User\source\repos\uygulamatakimlar1\uygulamatakimlar1\obj\Debug\uygulamatakimlar1.Properties.Resources.resources
+C:\Users\User\source\repos\uygulamatakimlar1\uygulamatakimlar1\obj\Debug\uygulamatakimlar1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\uygulamatakimlar1\uygulamatakimlar1\obj\Debug\uygulamatakimlar1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\uygulamatakimlar1\uygulamatakimlar1\obj\Debug\uygulamatakimlar1.exe
+C:\Users\User\source\repos\uygulamatakimlar1\uygulamatakimlar1\obj\Debug\uygulamatakimlar1.pdb
